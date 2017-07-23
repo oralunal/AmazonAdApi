@@ -1,5 +1,5 @@
 {
-    "name": "oralunal/php-amazon-advertising",
+    "name": "oralunal/apai-io",
     "type": "library",
     "description": "Amazon Product Advertising PHP Library",
     "keywords": ["Amazon", "ECS", "Product Advertising", "REST", "Products"],

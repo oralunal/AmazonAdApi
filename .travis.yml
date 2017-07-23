@@ -19,4 +19,4 @@ script:
 before_script:
     # php deps
     - composer self-update
-    - composer install --dev
+    - composer install

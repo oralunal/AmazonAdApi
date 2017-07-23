@@ -1,8 +1,8 @@
 {
     "name": "oralunal/apai-io",
-    "type": "library",
+    "version":"2.2.0",
     "description": "Amazon Product Advertising PHP Library",
-    "keywords": ["Amazon", "ECS", "Product Advertising", "REST", "Products"],
+    "keywords": ["Amazon", "ECS", "Product Advertising", "REST", "Products", "Amazon PHP API"],
     "homepage": "https://www.trkodlama.com/",
     "license": "Apache-2.0",
     "authors": [
@@ -25,7 +25,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=5.6.0",
-        "exeu/apai-io": "~2.0",
+        "exeu/apai-io": "2.1.0",
         "guzzlehttp/guzzle": "~6.0"
     },
     "require-dev": {

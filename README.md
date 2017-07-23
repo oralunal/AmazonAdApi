@@ -1,10 +1,10 @@
 # apai-io
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Exeu/apai-io/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Exeu/apai-io/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/Exeu/apai-io/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Exeu/apai-io/?branch=master)
-[![Build Status](https://scrutinizer-ci.com/g/Exeu/apai-io/badges/build.png?b=master)](https://scrutinizer-ci.com/g/Exeu/apai-io/build-status/master)
-[![Latest Stable Version](https://poser.pugx.org/exeu/apai-io/v/stable.svg)](https://packagist.org/packages/exeu/apai-io) [![Total Downloads](https://poser.pugx.org/exeu/apai-io/downloads.svg)](https://packagist.org/packages/exeu/apai-io)
-[![Build Status](https://travis-ci.org/Exeu/apai-io.png?branch=master)](https://travis-ci.org/Exeu/apai-io)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/oralunal/apai-io/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/oralunal/apai-io/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/oralunal/apai-io/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/oralunal/apai-io/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/oralunal/apai-io/badges/build.png?b=master)](https://scrutinizer-ci.com/g/oralunal/apai-io/build-status/master)
+[![Latest Stable Version](https://poser.pugx.org/oralunal/apai-io/v/stable.svg)](https://packagist.org/packages/oralunal/apai-io) [![Total Downloads](https://poser.pugx.org/oralunal/apai-io/downloads.svg)](https://packagist.org/packages/oralunal/apai-io)
+[![Build Status](https://travis-ci.org/oralunal/apai-io.png?branch=master)](https://travis-ci.org/oralunal/apai-io)
 [![Documentation Status](https://readthedocs.org/projects/apai-io/badge/?version=stable)](http://apai-io.readthedocs.io/en/stable/?badge=stable)
 
 ApaiIO is a highly flexible PHP library for fetching the Product Advertising API using REST or SOAP.
@@ -31,7 +31,7 @@ Add apai-io in your composer.json or create a new composer.json:
 ```js
 {
     "require": {
-        "exeu/apai-io": "~2.0"
+        "oralunal/apai-io": "~2.0"
     }
 }
 ```

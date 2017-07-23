@@ -3,7 +3,8 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/oralunal/apai-io/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/oralunal/apai-io/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/oralunal/apai-io/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/oralunal/apai-io/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/oralunal/apai-io/badges/build.png?b=master)](https://scrutinizer-ci.com/g/oralunal/apai-io/build-status/master)
-[![Latest Stable Version](https://poser.pugx.org/oralunal/apai-io/v/stable.svg)](https://packagist.org/packages/oralunal/apai-io) [![Total Downloads](https://poser.pugx.org/oralunal/apai-io/downloads.svg)](https://packagist.org/packages/oralunal/apai-io)
+[![Latest Stable Version](https://poser.pugx.org/oralunal/apai-io/v/stable.svg)](https://packagist.org/packages/oralunal/apai-io) 
+[![Total Downloads](https://poser.pugx.org/oralunal/apai-io/downloads.svg)](https://packagist.org/packages/oralunal/apai-io)
 [![Build Status](https://travis-ci.org/oralunal/apai-io.png?branch=master)](https://travis-ci.org/oralunal/apai-io)
 [![Documentation Status](https://readthedocs.org/projects/oralunal-apai-io/badge/?version=stable)](http://oralunal-apai-io.readthedocs.io/en/stable/)
 
@@ -20,7 +21,7 @@ You can try it out with the new demo site: http://apaiio.dev.pixel-web.org/
 
 The documentation is currently under construction.
 
-You can read here: http://apai-io.readthedocs.io/en/latest/
+You can read here: http://oralunal-apai-io.readthedocs.io/en/stable/
 
 ## Installation
 

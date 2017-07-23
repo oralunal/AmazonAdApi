@@ -1,33 +1,31 @@
 {
-    "name": "oralunal/AmazonAdApi",
+    "name": "oralunal/PHPAmazonAdAPI",
     "type": "library",
     "description": "Amazon Product Advertising PHP Library",
     "keywords": ["Amazon", "ECS", "Product Advertising", "REST", "Products"],
-    "homepage": "https://github.com/oralunal/AmazonAdApi",
+    "homepage": "https://www.trkodlama.com/",
     "license": "Apache-2.0",
     "authors": [
-        {
-            "name": "Jan Eichhorn",
-            "email": "exeu65@googlemail.com",
-            "role": "Maintainer"
-        },
-        {
-            "name": "Dejan Spasic",
-            "email": "dejan.spasic@bitweise.biz",
-            "role": "Developer"
-        },{
+       {
             "name": "Oral UNAL",
             "email": "oralunal@gmail.com",
             "role": "Developer"
         }
     ],
+    "repositories": [  
+        {  
+            "type": "vcs",  
+            "url": "https://github.com/oralunal/apai-io"  
+        }  
+    ], 
     "support": {
-        "issues": "https://github.com/oralunal/AmazonAdApi/issues"
+        "issues": "https://github.com/oralunal/apai-io/issues"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "master",
     "prefer-stable": true,
     "require": {
         "php": ">=5.6.0",
+        "exeu/apai-io": "~2.0",
         "guzzlehttp/guzzle": "~6.0"
     },
     "require-dev": {

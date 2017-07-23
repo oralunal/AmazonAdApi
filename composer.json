@@ -1,9 +1,9 @@
 {
-    "name": "exeu/apai-io",
+    "name": "oralunal/AmazonAdApi",
     "type": "library",
     "description": "Amazon Product Advertising PHP Library",
     "keywords": ["Amazon", "ECS", "Product Advertising", "REST", "Products"],
-    "homepage": "https://github.com/Exeu/apai-io",
+    "homepage": "https://github.com/oralunal/AmazonAdApi",
     "license": "Apache-2.0",
     "authors": [
         {
@@ -15,10 +15,13 @@
             "name": "Dejan Spasic",
             "email": "dejan.spasic@bitweise.biz",
             "role": "Developer"
-        }
+        },{
+            "name": "Oral UNAL",
+            "email": "oralunal@gmail.com",
+            "role": "Developer"
     ],
     "support": {
-        "issues": "https://github.com/Exeu/apai-io/issues"
+        "issues": "https://github.com/oralunal/AmazonAdApi/issues"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,

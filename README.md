@@ -6,7 +6,7 @@
 [![Latest Stable Version](https://poser.pugx.org/oralunal/apai-io/v/stable.svg)](https://packagist.org/packages/oralunal/apai-io) 
 [![Total Downloads](https://poser.pugx.org/oralunal/apai-io/downloads.svg)](https://packagist.org/packages/oralunal/apai-io)
 [![Build Status](https://travis-ci.org/oralunal/apai-io.png?branch=master)](https://travis-ci.org/oralunal/apai-io)
-[![Documentation Status](https://readthedocs.org/projects/oralunal-apai-io/badge/?version=stable)](http://oralunal-apai-io.readthedocs.io/en/stable/)
+[![Documentation Status](https://readthedocs.org/projects/oralunal-apai-io/badge/?version=latest)](http://oralunal-apai-io.readthedocs.io/en/latest/)
 
 ApaiIO is a highly flexible PHP library for fetching the Product Advertising API using REST or SOAP.
 You can either use the built in operations like ItemSearch or ItemLookup or you can implement your own operations which fits to your needs.

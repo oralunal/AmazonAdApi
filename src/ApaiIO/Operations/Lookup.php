@@ -191,7 +191,7 @@ class Lookup extends AbstractOperation
      */
     public function setIncludeReviewsSummary($condition)
     {
-        $this->parameters['IncludeReviewsSummary'] = $condition ? TRUE : FALSE;
+        $this->parameters['IncludeReviewsSummary'] = $condition ? 'True' : 'False';
         return $this;
     }
     

@@ -179,29 +179,4 @@ class Lookup extends AbstractOperation
 
         return $this;
     }
-    
-    /**
-     * Sets the IncludeReviewsSummary of the items to return: True | False
-     *
-     * Defaults to TRUE.
-     *
-     * @param boolean $condition
-     *
-     * @return \ApaiIO\Operations\Search
-     */
-    public function setIncludeReviewsSummary($condition)
-    {
-        $this->parameters['IncludeReviewsSummary'] = $condition ? 'True' : 'False';
-        return $this;
-    }
-    
-    /**
-     * Returns the include reviews summary, True | False
-     *
-     * @return string
-     */
-    public function getIncludeReviewsSummary()
-    {
-        return $this->getSingleOperationParameter('IncludeReviewsSummary');
-    }
 }

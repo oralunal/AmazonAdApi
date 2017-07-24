@@ -11,7 +11,7 @@ Edit this composer.json and add the following content to it
 
     {
         "require": {
-            "exeu/apai-io": "~2.0"
+            "oralunal/apai-io": "~2.0"
         }
     }
 

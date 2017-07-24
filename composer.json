@@ -1,6 +1,6 @@
 {
     "name": "oralunal/apai-io",
-    "version":"2.2.0",
+    "version":"2.2.3",
     "description": "Amazon Product Advertising PHP Library",
     "keywords": ["Amazon", "ECS", "Product Advertising", "REST", "Products", "Amazon PHP API"],
     "homepage": "https://www.trkodlama.com/",
